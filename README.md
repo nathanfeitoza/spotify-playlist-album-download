@@ -20,7 +20,6 @@ This Python script enables users to download playlists or albums from Spotify as
 ## Prerequisites
 
 - Python 3.6 or higher.
-- Spotify account and API credentials.
 
 ## Installation
 
